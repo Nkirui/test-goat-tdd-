@@ -1,6 +1,5 @@
 from post import Post
 
-
 class Blog:
     def __init__(self, title, author):
         self.title = title
